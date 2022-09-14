@@ -52,6 +52,7 @@ const { t } = useI18n()
       >
         {{ t('button.go') }}
       </button>
+      <q-btn color="primary" label="Primary" />
     </div>
   </div>
 </template>
